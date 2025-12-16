@@ -142,7 +142,7 @@ ORCID: 0000-0002-8156-6633
 Computer Engineer – AI Model Development & Code Implementation  
 Department of Computer Engineering  
 Istanbul University–Cerrahpaşa, Istanbul, Türkiye  
-Email: serpil.ustebay@istanbul.edu.tr  
+Email: serpil.ustebay@iuc.edu.tr
 
 
 
